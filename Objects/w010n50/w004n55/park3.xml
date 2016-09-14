@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+  <path>park3.ac</path>
+  
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>park1_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>body.177</object-name>
+    <object-name>jour.006</object-name>
+    <object-name>van.000</object-name>
+  </effect>
+  
+</PropertyList>
