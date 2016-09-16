@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+  <path>GA.ac</path>
+  
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>tilewall_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>TileHangar</object-name>
+    <object-name>TileDoors</object-name>
+  </effect>
+
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>concreteRuf_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>ConcreteWalls</object-name>
+  </effect>
+
+  <effect>
+    <inherits-from>/Effects/model-combined-deferred</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <texture n="3">
+	<image>doorGA_lightmap.png</image>
+      </texture>
+    </parameters>
+    <object-name>doors</object-name>
+  </effect>
+  
+</PropertyList>
