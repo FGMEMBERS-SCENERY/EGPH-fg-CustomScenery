@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 
 <PropertyList>
+
+<!--temporarily disabled, elevation is wrong
   <jetway>
     <model type="string">glass</model>
     <gate type="string">10</gate>
@@ -145,4 +147,6 @@
       <entrance-heading-deg type="double">0</entrance-heading-deg>
     </initial-position>
   </jetway>
+-->
+
 </PropertyList>
