@@ -2,7 +2,6 @@
 
 <PropertyList>
 
-<!--temporarily disabled, elevation is wrong
   <jetway>
     <model type="string">glass</model>
     <gate type="string">10</gate>
@@ -132,7 +131,7 @@
     </initial-position>
   </jetway>
   <jetway n="8">
-    <model type="string">glass</model>
+    <model type="string">generic</model>
     <gate type="string">1</gate>
     <door type="int">0</door>
     <airline type="string">FGFS</airline>
@@ -147,6 +146,5 @@
       <entrance-heading-deg type="double">0</entrance-heading-deg>
     </initial-position>
   </jetway>
--->
 
 </PropertyList>
