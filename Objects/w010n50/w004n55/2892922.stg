@@ -77,6 +77,8 @@ OBJECT_STATIC egph_fuel.xml -3.369743 55.947765 30 0 0
 OBJECT_STATIC GA.xml -3.35226483 55.94473467 32.5850 0 0 
 #SouthEast Apron
 OBJECT_STATIC SE_Apron.xml -3.35776317 55.94774371 30.5506 -1 0
+#Cargo Apron
+OBJECT_STATIC cargo.xml -3.35173457 55.95092667 33.1870 0 0 
 
 #apronLamps
 OBJECT_SHARED Models/Airport/KSFO_light.xml -3.356842 55.952790 31 0 0
@@ -178,7 +180,6 @@ OBJECT_SHARED Models/Airport/Jetway/glass.xml -3.36589386 55.94812531 29.0129 29
 OBJECT_SHARED Models/Airport/Jetway/glass.xml -3.36590878 55.94759016 29.1013 312.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Jetway/glass.xml -3.36582901 55.94715842 29.2697 320.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/Jetway/glass.xml -3.36584817 55.94665377 29.4986 273.1 0.0 -0.0
-
 
 # osm2city_EGPH
 # do not edit below this line
